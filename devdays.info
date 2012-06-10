@@ -1,0 +1,49 @@
+name = Dev Days
+description = Dev Days profile.
+core = 7.x
+
+; -----------------------------------------------------------------------------
+;                                  Modules
+; -----------------------------------------------------------------------------
+
+; Required Drupal core modules
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = comment
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = poll
+dependencies[] = taxonomy
+dependencies[] = toolbar
+dependencies[] = rdf
+dependencies[] = search
+
+; Required contrib modules
+dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = features
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = views
+dependencies[] = views_ui
+
+; Required custom modules
+
+
+; Required features
+;dependencies[] = feature1
+;dependencies[] = feature2
