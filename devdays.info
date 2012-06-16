@@ -30,7 +30,7 @@ dependencies[] = search
 
 ; Required contrib modules
 dependencies[] = admin_menu
-;dependencies[] = coffee
+dependencies[] = coffee
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token

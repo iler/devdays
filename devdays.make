@@ -8,9 +8,9 @@ projects[admin_menu][version] = "3.0-rc3"
 projects[admin_menu][type] = "module"
 projects[admin_menu][subdir] = "contrib"
 
-;projects[coffee][version] = "1.0"
-;projects[coffee][type] = "module"
-;projects[coffee][subdir] = "contrib"
+projects[coffee][version] = "1.0"
+projects[coffee][type] = "module"
+projects[coffee][subdir] = "contrib"
 
 projects[ctools][version] = "1.0"
 projects[ctools][type] = "module"
